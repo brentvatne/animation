@@ -1,6 +1,6 @@
 var CARDS = [
-  ['/react.png', 'React', '#222', '#fff'],
-  ['/angular.png', 'Angular', '#fff', '#000'],
+  ['react.png', 'React', '#222', '#fff'],
+  ['angular.png', 'Angular', '#fff', '#000'],
 ];
 
 var CARD_WIDTH = 320;
